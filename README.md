@@ -2,3 +2,5 @@
 
 
 ![languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunattri&langs_count=8&layout=compact)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
